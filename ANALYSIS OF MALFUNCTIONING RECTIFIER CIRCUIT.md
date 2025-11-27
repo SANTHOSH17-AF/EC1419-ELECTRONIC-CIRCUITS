@@ -5,7 +5,8 @@
 
 
 ## GRAPHS
-![Uploading WhatsApp Image 2025-11-26 at 09.15.55_2a54ffef.jpg…]()
+![WhatsApp Image 2025-11-26 at 09 15 55_2f44b237](https://github.com/user-attachments/assets/aaf644b4-1d7c-4e5f-8d5a-bef97a37d85c)
+
 
 ## Result
 <img width="936" height="122" alt="image" src="https://github.com/user-attachments/assets/2d2e2399-6a9f-49ec-b40c-3c2982d4b82c" />
