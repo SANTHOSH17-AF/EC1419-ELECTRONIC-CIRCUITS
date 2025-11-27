@@ -29,15 +29,12 @@
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
-![WhatsApp Image 2025-11-26 at 09 12 48_c1224a5c](https://github.com/user-attachments/assets/60ea72ae-e0a6-4f58-870c-628a853b1c63)
+
+![WhatsApp Image 2025-11-26 at 09 12 48_9bfa7c0b](https://github.com/user-attachments/assets/77b99d73-1e6a-4935-9f35-6921b56ee062)
+
 
 
 
 **VOLTAGE GAIN = -32 dB**
-**Bandwidth = 5 MHz**
 
-
-
-
-
-**BANDWIDTH =**
+**BANDWIDTH = 5 MHz**
